@@ -1,7 +1,7 @@
 '''
 Author: Rishita
 Date: 15-10-2024
-Python program to determine colour based on a given code value.
+Python program to determine discound on bill.
 version 1.1
 '''
 total_bill_amount=int(input("Enter bill amount:"))
